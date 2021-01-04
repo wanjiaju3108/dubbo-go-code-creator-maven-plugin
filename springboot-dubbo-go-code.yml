@@ -1,0 +1,4 @@
+env: test
+package: com.ikurento
+service-name: springboot-provider-demo
+services: OrderRpcService,UserRpcService
